@@ -10,15 +10,17 @@ Cập nhật điểm sinh viên SV02 bằng updateOne() và $set.
 
 Hiển thị lại thông tin sinh viên sau khi cập nhật.
 
-2. Cài đặt module
 
-npm.cmd install mongodb
+2. Chạy chương trình:Mở Terminal và chạy lệnh: "cd bai05" tiếp đến chạy lệnh: "cd Bai05" 
 
-3. Chạy chương trình
+<img width="389" height="51" alt="image" src="https://github.com/user-attachments/assets/b86e83f7-11f5-4df7-bb80-fba3762a4ec7" />
 
-node bai05.js
+Sau đó chạy lệnh: node Bai05.js
 
-4. Kết quả thực hiện
+<img width="519" height="387" alt="image" src="https://github.com/user-attachments/assets/9f056b19-f9f9-4abb-a072-97a51de6d054" />
+
+
+3. Kết quả thực hiện
 
 Hiển thị danh sách sinh viên có điểm từ 7 trở lên.
 
@@ -28,18 +30,18 @@ Cập nhật điểm sinh viên SV02 thành 10.
 
 Hiển thị lại thông tin SV02 sau khi cập nhật thành công.
 
-5. Hình ảnh minh họa
+4. Hình ảnh minh họa
 
 Chèn ảnh chụp màn hình:
 
-Ảnh cài đặt module MongoDB.
+Ảnh kết quả module MongoDB.
 
-Ảnh chạy chương trình trên Terminal.
-
-Ảnh danh sách sinh viên đã lọc và sắp xếp.
+<img width="1759" height="943" alt="image" src="https://github.com/user-attachments/assets/d63fa604-1ed0-4aea-ab34-8acdc2bb1fa4" />
 
 Ảnh thông tin sinh viên sau khi cập nhật.
+<img width="500" height="166" alt="image" src="https://github.com/user-attachments/assets/090a9dad-6804-4825-b4a7-c2f7177520e3" />
 
-6. Kết luận
+
+5. Kết luận
 
 Hoàn thành bài tập tìm kiếm, cập nhật và sắp xếp dữ liệu MongoDB bằng Node.js, sử dụng find(), $gte, sort(), updateOne() và $set.
