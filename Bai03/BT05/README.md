@@ -39,9 +39,10 @@ Chèn ảnh chụp màn hình:
 <img width="1759" height="943" alt="image" src="https://github.com/user-attachments/assets/d63fa604-1ed0-4aea-ab34-8acdc2bb1fa4" />
 
 Ảnh thông tin sinh viên sau khi cập nhật.
+
 <img width="500" height="166" alt="image" src="https://github.com/user-attachments/assets/090a9dad-6804-4825-b4a7-c2f7177520e3" />
 
+Ảnh file đã module MongoDB
 
-5. Kết luận
+<img width="289" height="136" alt="image" src="https://github.com/user-attachments/assets/73e82875-88aa-46af-ae53-4dfb1e608558" />
 
-Hoàn thành bài tập tìm kiếm, cập nhật và sắp xếp dữ liệu MongoDB bằng Node.js, sử dụng find(), $gte, sort(), updateOne() và $set.
