@@ -17,7 +17,7 @@ async function main() {
         const db = client.db('qlsinhvien');
         const students = db.collection('students');
 
-        // Thêm 3 sinh viên
+        // Danh sách 3 sinh viên
         const danhSachSinhVien = [
             {
                 masv: 'SV01',
@@ -39,11 +39,15 @@ async function main() {
             }
         ];
 
+        // Xóa dữ liệu cũ trước khi thêm mới
+        await students.deleteMany({});
+
+        // Thêm 3 sinh viên bằng insertMany()
         const ketQua = await students.insertMany(danhSachSinhVien);
 
         console.log('Đã thêm ' + ketQua.insertedCount + ' sinh viên!');
 
-        // Hiển thị danh sách sinh viên
+        // Hiển thị danh sách sinh viên bằng find()
         const danhSach = await students.find().toArray();
 
         console.log('\n===== DANH SÁCH SINH VIÊN =====');
