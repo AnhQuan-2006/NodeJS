@@ -13,12 +13,16 @@ Sử dụng find() để hiển thị danh sách sinh viên.
 Đóng kết nối MongoDB sau khi hoàn thành.
 
 2. Cài đặt module
+   ta chạy lệch: " cd Bai03" sau đó chạy lệnh: "cd BT04"
+<img width="370" height="52" alt="image" src="https://github.com/user-attachments/assets/dcb3e586-a48c-444b-af8f-04db4d99b49e" />
 
-npm.cmd install mongodb
+ Tiếp đến chạy lệnh: npm.cmd install mongodb.
+ 
+ <img width="666" height="175" alt="image" src="https://github.com/user-attachments/assets/33ccfa78-33bc-4684-981c-cc8342667dc4" />
 
-3. Chạy chương trình
 
-node bai04.js
+3. Chạy chương trình: node bai04.js
+ <img width="563" height="647" alt="image" src="https://github.com/user-attachments/assets/a522a57b-7bc8-48b4-be77-3087b0706a19" />
 
 4. Kết quả thực hiện
 
@@ -27,14 +31,8 @@ Chương trình kết nối MongoDB thành công, thêm 3 sinh viên vào collec
 Dữ liệu được lưu trong database qlsinhvien.
 
 5. Hình ảnh minh họa
-
-Chèn các ảnh chụp màn hình:
-
-Ảnh cài đặt module MongoDB.
-
-Ảnh chạy chương trình trên Terminal.
-
 Ảnh danh sách sinh viên trong MongoDB Compass.
+<img width="1763" height="930" alt="image" src="https://github.com/user-attachments/assets/7a62a2c8-2123-4c80-88ff-83917ef113fa" />
 
 6. Kết luận
 
