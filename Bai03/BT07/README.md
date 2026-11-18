@@ -10,9 +10,10 @@ Mở Terminal và chạy lệnh: "cd bai03" tiếp đến chạy lệnh: "cd Bai
 <img width="372" height="47" alt="image" src="https://github.com/user-attachments/assets/9c8a952a-3a77-4e9a-b8b4-eb241cfc0319" />
 <img width="494" height="43" alt="image" src="https://github.com/user-attachments/assets/5cd9238d-4186-43a2-a3ee-4e4204c2baff" />
 
-
 Sau đó truy cập các đường dẫn trên trình duyệt để kiểm tra kết quả.
 3. Hình ảnh và Kết quả thực hiện
+
+
 - http://localhost:3001/hello?name=Qu%C3%A2n
   <img width="507" height="103" alt="image" src="https://github.com/user-attachments/assets/a0b29ce2-7780-48ff-bdd7-830e73aed05c" />
 
