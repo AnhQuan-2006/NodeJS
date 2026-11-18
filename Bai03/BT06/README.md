@@ -19,6 +19,9 @@ Bước 3: Tạo file bai06.js, khai báo dữ liệu 3 sinh viên và gọi mod
 Bước 4: Mở Terminal và chạy lệnh: "cd bai03" tiếp đến chạy lệnh: "cd Bai06" sau đó chạy lệnh: node Bai06.js
 
 Hình ảnh minh họa:
+<img width="329" height="70" alt="image" src="https://github.com/user-attachments/assets/abbb5722-a21c-4692-ab52-ab2a47c62e6c" />
+
+<img width="375" height="78" alt="image" src="https://github.com/user-attachments/assets/d1a72459-725b-4c9a-845c-9f2c44e2c8ad" />
 
 
 3. Kết quả
@@ -27,7 +30,8 @@ Chương trình hiển thị họ tên, điểm trung bình và xếp loại h�
 
 4. Hình ảnh minh họa
 
-Ảnh 1: 
+<img width="514" height="297" alt="image" src="https://github.com/user-attachments/assets/b577b0a0-6f9a-4e8c-92cb-91cb47bf1707" />
+
 
 5. Kết luận
 
