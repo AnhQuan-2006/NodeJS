@@ -22,7 +22,8 @@ Sử dụng find() để hiển thị danh sách sinh viên.
 
 
 3. Chạy chương trình: node bai04.js
- <img width="563" height="647" alt="image" src="https://github.com/user-attachments/assets/a522a57b-7bc8-48b4-be77-3087b0706a19" />
+ <img width="437" height="486" alt="image" src="https://github.com/user-attachments/assets/08817a82-ce88-4208-b121-c4bc7378303b" />
+
 
 4. Kết quả thực hiện
 
