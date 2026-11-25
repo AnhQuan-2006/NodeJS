@@ -1,10 +1,5 @@
 # BÀI TẬP 10 – LIÊN KẾT HAI COLLECTION TRONG MONGODB
 
-**Họ và tên:** Nguyễn Anh Quân
-
-**Lớp:** CĐ-CNTT18A
-
-**Môn học:** Node.js
 
 ## 1. Mục tiêu bài tập
 
@@ -21,32 +16,35 @@ Thực hành liên kết hai Collection trong MongoDB bằng phương thức `ag
 - Bước 7: Hiển thị danh sách sinh viên sau khi liên kết.
 
 ## 3. Các lệnh thực hiện
+Mở Terminal chạy lệnh: cd Bai03  , sau đó chạy lệnh: cd BT10
+
+<img width="373" height="62" alt="image" src="https://github.com/user-attachments/assets/28e5e998-562d-442d-a025-cb14079509c6" />
+
 
 Cài đặt thư viện MongoDB:
 
-```bash
 npm.cmd install mongodb
-```
 
-Chạy chương trình:
+Sau đó chạy chương trình:  node bai10.js
 
-```bash
-node bai10.js
-```
 
 ## 4. Hình ảnh kết quả
 
 ### Hình 1: Kết nối MongoDB và tạo dữ liệu hai Collection
 
-Chèn ảnh Terminal hiển thị kết nối thành công, thêm 2 khoa và 4 sinh viên.
+<img width="473" height="254" alt="image" src="https://github.com/user-attachments/assets/ce8fb965-bda8-4e23-885d-b1087225ee22" />
 
-### Hình 2: Kết quả liên kết hai Collection
 
-Chèn ảnh Terminal hiển thị danh sách sinh viên sau khi sử dụng aggregate() và $lookup.
+### Hình 2: Kết quả hiển thị tên khoa
 
-### Hình 3: Kết quả hiển thị tên khoa
+<img width="449" height="776" alt="image" src="https://github.com/user-attachments/assets/bdef3ee0-7d80-4382-a0bf-532eb3708810" />
 
-Chèn ảnh thể hiện đầy đủ mã sinh viên, họ tên, mã khoa và tên khoa tương ứng.
+Ảnh MongoDB:
+
+<img width="1662" height="727" alt="image" src="https://github.com/user-attachments/assets/840b2b9b-5c99-47fe-ab47-82c5c9648d71" />
+
+<img width="1766" height="332" alt="image" src="https://github.com/user-attachments/assets/7b0bd992-1233-4a00-83c4-23215f9487b6" />
+
 
 ## 5. Kết quả đạt được
 
