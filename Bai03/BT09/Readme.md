@@ -18,36 +18,23 @@ Thực hành kết nối MongoDB và sử dụng các phương thức xóa dữ 
 
 ## 3. Các lệnh thực hiện
 
+mở Terminal nhập; cd Bai03  , sau đó nhập : cd BT09 
+
+<img width="369" height="47" alt="image" src="https://github.com/user-attachments/assets/0afa6def-b4a1-4759-acfe-988a54d53e81" />
 
 Cài đặt thư viện MongoDB:
-
 npm.cmd install mongodb
 
-Chạy chương trình:
+Chạy chương trình: node bai09.js
 
-```bash
-node bai09.js
-```
+<img width="538" height="792" alt="image" src="https://github.com/user-attachments/assets/67d3e60a-fc86-4513-bc1c-1848574cfe6a" />
 
-## 4. Hình ảnh kết quả
+ảnh MongoDB:
 
-### Hình 1: Kết nối MongoDB và thêm 5 sinh viên
+<img width="1742" height="530" alt="image" src="https://github.com/user-attachments/assets/28c02ebf-ec43-41b2-9f81-e7728de23291" />
 
-Chèn ảnh chạy chương trình trên Terminal.
 
-### Hình 2: Kết quả xóa bằng deleteOne()
-
-Chèn ảnh hiển thị số bản ghi đã xóa.
-
-### Hình 3: Kết quả xóa bằng deleteMany()
-
-Chèn ảnh hiển thị số sinh viên có điểm dưới 5 đã bị xóa.
-
-### Hình 4: Danh sách sinh viên còn lại
-
-Chèn ảnh hiển thị danh sách sinh viên sau khi xóa.
-
-## 5. Kết quả đạt được
+## 4. Kết quả đạt được
 
 - Kết nối thành công database qlsinhvien.
 - Tạo và sử dụng collection students_test.
