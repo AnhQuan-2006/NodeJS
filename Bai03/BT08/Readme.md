@@ -14,6 +14,7 @@ Terminal: nhập lệnh: cd Bai03 , sau đó nhập lệnh : cd BT08
   <img width="392" height="51" alt="image" src="https://github.com/user-attachments/assets/1d1cd1c0-3f6e-4781-b66b-104865942bd5" />
 
   Tiếp đến nhập lệnh: node bai08.js
+  
 4. Hình ảnh kết quả
 Hình 1: Chương trình chạy trên Terminal
 <img width="517" height="372" alt="image" src="https://github.com/user-attachments/assets/124f094e-1424-4ca8-b393-109dba31887a" />
