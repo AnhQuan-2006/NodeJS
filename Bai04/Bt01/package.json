@@ -1,0 +1,16 @@
+
+{
+  "name": "bt01",
+  "version": "1.0.0",
+  "description": "Website gioi thieu ca nhan Nguyen Anh Quan",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Nguyen Anh Quan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
