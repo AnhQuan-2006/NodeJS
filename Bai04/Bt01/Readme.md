@@ -93,13 +93,33 @@ Kết quả: Website hiển thị trang thông báo không tìm thấy đường
 ### 4. Hình ảnh minh chứng
 
 - Ảnh 1: Cấu trúc thư mục dự án.
-- Ảnh 2: Cài đặt Express và khởi chạy chương trình trên Terminal.
-- Ảnh 3: Giao diện trang chủ.
-- Ảnh 4: Giao diện trang giới thiệu.
-- Ảnh 5: Giao diện trang kỹ năng.
-- Ảnh 6: Giao diện trang sở thích.
-- Ảnh 7: Giao diện trang liên hệ.
-- Ảnh 8: Giao diện xử lý lỗi 404.
+
+ <img width="357" height="455" alt="image" src="https://github.com/user-attachments/assets/8730d024-ab6d-4c51-83e7-1fb3eb438e90" />
+
+- Ảnh 2: Giao diện trang chủ.
+
+<img width="1920" height="767" alt="image" src="https://github.com/user-attachments/assets/b41a1a22-9a14-43ac-820e-ed109bee0a5a" />
+ 
+- Ảnh 3: Giao diện trang giới thiệu.
+
+  <img width="1920" height="890" alt="image" src="https://github.com/user-attachments/assets/186016cd-3374-4278-98e8-b1502394ba0b" />
+
+- Ảnh 4: Giao diện trang kỹ năng.
+
+  <img width="1920" height="746" alt="image" src="https://github.com/user-attachments/assets/521bd24f-1580-4a7f-9d7b-81c44920e0fe" />
+
+- Ảnh 5: Giao diện trang sở thích.
+
+  <img width="1920" height="748" alt="image" src="https://github.com/user-attachments/assets/cb61c29e-c45c-433d-b246-5f9332f1a1f2" />
+
+- Ảnh 6: Giao diện trang liên hệ.
+
+- <img width="1920" height="852" alt="image" src="https://github.com/user-attachments/assets/b3d8f8b4-a1bc-4d5c-834e-d7afc5dced46" />
+
+- Ảnh 7: Giao diện xử lý lỗi 404.
+
+  <img width="1440" height="694" alt="image" src="https://github.com/user-attachments/assets/3aaa999f-2ced-4dc4-acd8-f6dc637d62eb" />
+
 
 ---
 
