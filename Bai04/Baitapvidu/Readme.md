@@ -54,7 +54,9 @@ node app.js
 **Kết quả:** Máy chủ Express khởi động thành công và hiển thị nội dung Hello, Express! trên trình duyệt.
 
 **Hình ảnh kết quả:**  
-(Chèn ảnh Terminal và trình duyệt tại đây)
+
+<img width="485" height="133" alt="image" src="https://github.com/user-attachments/assets/eb803f45-7fc7-41dc-9cb8-739749b2eb13" />
+
 
 ### Bài 2: Xử lý Route
 
@@ -76,7 +78,14 @@ node express_route.js
 - Đường dẫn không tồn tại hiển thị Không tìm thấy trang.
 
 **Hình ảnh kết quả:**  
-(Chèn ảnh kết quả Route tại đây)
+
+<img width="330" height="115" alt="image" src="https://github.com/user-attachments/assets/0c8bf341-0887-4fef-9bc7-bb11a28db800" />
+
+<img width="470" height="156" alt="image" src="https://github.com/user-attachments/assets/0cba1ce5-5b7f-4772-840f-1fb290c73696" />
+
+<img width="415" height="119" alt="image" src="https://github.com/user-attachments/assets/de477568-c7dd-400b-93bd-8cbee9246cf6" />
+
+
 
 ### Bài 3: Sử dụng Middleware
 
@@ -93,7 +102,9 @@ node express_middleware.js
 **Kết quả:** Trình duyệt hiển thị Chào mừng đến với ứng dụng Express! Terminal hiển thị địa chỉ được truy cập.
 
 **Hình ảnh kết quả:**  
-(Chèn ảnh kết quả Middleware tại đây)
+
+<img width="380" height="140" alt="image" src="https://github.com/user-attachments/assets/efd53d65-4b06-4057-b26b-18e5e5d197cd" />
+
 
 ### Bài 4: Sử dụng Pug Template Engine
 
@@ -111,7 +122,9 @@ node express_pug.js
 **Kết quả:** Trang web hiển thị nội dung Hello, John Doe!
 
 **Hình ảnh kết quả:**  
-(Chèn ảnh kết quả Pug tại đây)
+
+<img width="398" height="147" alt="image" src="https://github.com/user-attachments/assets/3e9cfab4-a49d-4dd1-ab6d-2fdc6ce48eba" />
+
 
 ### Bài 5: Xử lý lỗi (Error Handling)
 
@@ -129,10 +142,19 @@ node express_errorhandling.js
 
 **Kết quả:**
 - Nhập 10 và 2: hiển thị `Result: 5`.
+
+  <img width="376" height="192" alt="image" src="https://github.com/user-attachments/assets/f2aa2d3b-73da-4e1a-a71d-506cfa3cdb51" />
+
+  <img width="396" height="123" alt="image" src="https://github.com/user-attachments/assets/ed00cff7-85a2-40e1-ac77-0973043afb53" />
+
+
 - Nhập 1 và 0: hiển thị `Invalid input`.
 
-**Hình ảnh kết quả:**  
-(Chèn ảnh tính toán thành công và ảnh xử lý lỗi tại đây)
+  <img width="346" height="139" alt="image" src="https://github.com/user-attachments/assets/67da872a-5f79-4610-8da0-71c36c1c613c" />
+
+  <img width="438" height="147" alt="image" src="https://github.com/user-attachments/assets/80378bcd-1fe1-4bcf-bad2-a0ce287e7d44" />
+
+
 
 ### Bài 6: Xây dựng ứng dụng theo mô hình MVC
 
@@ -157,7 +179,9 @@ http://localhost:3000/calculator
 **Kết quả:** Người dùng có thể nhập hai số, lựa chọn phép tính và xem kết quả trên giao diện máy tính.
 
 **Hình ảnh kết quả:**  
-(Chèn ảnh giao diện máy tính và kết quả tại đây)
+
+<img width="1122" height="732" alt="image" src="https://github.com/user-attachments/assets/00a643de-187d-425b-9f9b-581891357d52" />
+
 
 ## 4. Kết luận
 
